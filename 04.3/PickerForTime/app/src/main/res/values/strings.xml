@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Picker For Time</string>
+    <string name="time_text">Press to select time:</string>
+    <string name="time_button">Time</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timePicker">timePicker</string>
+</resources>
