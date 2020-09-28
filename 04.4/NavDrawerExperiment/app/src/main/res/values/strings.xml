@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Nav Drawer Experiment</string>
-    <string name="import_">Import</string>
-    <string name="gallery">Gallery</string>
-    <string name="slideshow">Slideshow</string>
-    <string name="tools">Tools</string>
-
-</resources>

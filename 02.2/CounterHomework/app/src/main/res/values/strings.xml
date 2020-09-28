@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">CounterHomework</string>
-    <string name="zero">0</string>
-    <string name="button">Count</string>
-    <string name="type_something">Type something.</string>
-</resources>

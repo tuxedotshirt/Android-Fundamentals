@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Options Activity</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_donut">Donut</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="title_activity_froyo">Froyo</string>
-    <string name="title_activity_ice_cream">IceCream</string>
-</resources>

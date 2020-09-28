@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Picker For Date</string>
-    <string name="pick_a_date">Click to pick a date:</string>
-    <string name="datepicker">datePicker</string>
-    <string name="button_date">Date</string>
-    <string name="date">Date:</string>
-</resources>
