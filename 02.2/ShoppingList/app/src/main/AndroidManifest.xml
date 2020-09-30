@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.codingchallenge">
+    package="com.example.shoppinglist">
 
     <application
         android:allowBackup="true"
@@ -9,13 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".SecondActivity"
-            android:label = "Second Activity"
+        <activity android:name=".MainActivity2"
+            android:label = "Choose an item to add"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=
-                    "com.example.codingchallenge.MainActivity" />
+                    "com.example.shoppinglist.MainActivity" />
         </activity>
         <activity android:name=".MainActivity">
             <intent-filter>

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Coding Challenge</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_1_message">Button 1 was clicked</string>
+    <string name="button_2_message">Button 2 was clicked</string>
+    <string name="button_3_message">Button 3 was clicked</string>
 </resources>

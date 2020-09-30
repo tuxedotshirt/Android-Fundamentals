@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="milk">Milk</string>
+    <string name="eggs">Eggs</string>
+    <string name="coffee">Coffee</string>
+    <string name="cream">Cream</string>
+    <string name="kraft_dinner">Kraft Dinner</string>
+    <string name="cheese">Cheese</string>
+    <string name="energy_drinks">Energy Drinks</string>
+    <string name="dog_treats">Dog Treats</string>
+    <string name="monster">Monster</string>
+    <string name="choose_from_list">Choose From List</string>
+</resources>
