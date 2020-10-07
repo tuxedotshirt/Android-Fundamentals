@@ -1,0 +1,4 @@
+#Mon Oct 05 15:33:07 MDT 2020
+base.0=C\:\\Users\\donha\\Documents\\GitHub\\Android-Fundamentals\\06.1\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

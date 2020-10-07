@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\donha\\Documents\\GitHub\\Android-Fundamentals\\05.2\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "C:\\Users\\donha\\Documents\\GitHub\\Android-Fundamentals\\05.3\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\donha\\.gradle\\caches\\transforms-2\\files-2.1\\3888b76ca1d3233026c2f5cad8877075\\appcompat-v7-27.1.1\\res\\values-cs\\values-cs.xml",
