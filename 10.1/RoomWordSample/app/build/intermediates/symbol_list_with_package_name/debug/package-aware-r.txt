@@ -1708,6 +1708,7 @@ id bottom
 id bounce
 id buttonPanel
 id button_first
+id button_save
 id button_second
 id cancel_button
 id center
@@ -1764,6 +1765,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
+id edit_word
 id end
 id enterAlways
 id enterAlwaysCollapsed
@@ -2062,6 +2064,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_new_word
 layout content_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2170,11 +2173,13 @@ string action_settings
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string button_save
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string empty_not_saved
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2183,6 +2188,7 @@ string first_fragment_label
 string hello_first_fragment
 string hello_second_fragment
 string hide_bottom_view_on_scroll_behavior
+string hint_word
 string icon_content_description
 string item_view_role_description
 string material_slider_range_end
@@ -2930,6 +2936,7 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
+style button_style
 style text_view_style
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
