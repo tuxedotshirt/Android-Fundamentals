@@ -46,6 +46,17 @@
 27-->C:\Users\donha\Documents\GitHub\Android-Fundamentals\10.1\RoomWordSample\app\src\main\AndroidManifest.xml:19:27-74
 28            </intent-filter>
 29        </activity>
-30    </application>
-31
-32</manifest>
+30
+31        <provider
+31-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\donha\.gradle\caches\transforms-2\files-2.1\fe9054662aacf2576033c427aeb15cd4\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+32            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+32-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\donha\.gradle\caches\transforms-2\files-2.1\fe9054662aacf2576033c427aeb15cd4\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+33            android:authorities="com.example.roomwordsample.lifecycle-process"
+33-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\donha\.gradle\caches\transforms-2\files-2.1\fe9054662aacf2576033c427aeb15cd4\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+34            android:exported="false"
+34-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\donha\.gradle\caches\transforms-2\files-2.1\fe9054662aacf2576033c427aeb15cd4\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+35            android:multiprocess="true" />
+35-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\donha\.gradle\caches\transforms-2\files-2.1\fe9054662aacf2576033c427aeb15cd4\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+36    </application>
+37
+38</manifest>
