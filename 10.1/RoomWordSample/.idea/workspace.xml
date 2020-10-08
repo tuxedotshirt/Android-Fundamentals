@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8198d7cb-560c-4252-a3d6-93efa22e79c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/roomwordsample/WordRoomDatabase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -138,23 +139,31 @@
       <option name="project" value="LOCAL" />
       <updated>1602145778422</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10_1 task 4 finished">
+      <created>1602146801487</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602146801487</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10_1 start" />
     <MESSAGE value="10_1 task 2 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="10_1 task 2 finished" />
+    <MESSAGE value="10_1 task 4 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="10_1 task 4 finished" />
   </component>
   <component name="WindowStateProjectService">
     <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1602146653974">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602146653974" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602146669318">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602146838988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602146669318" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602146838988" />
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602146710367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
