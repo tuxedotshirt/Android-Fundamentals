@@ -12,7 +12,7 @@ public abstract class WordRoomDatabase extends RoomDatabase {
     public abstract WordDao wordDao();
     private static WordRoomDatabase INSTANCE;
 
-    private static WordRoomDatabase getDatabase(final Context context){
+    static WordRoomDatabase getDatabase(final Context context){
         if(INSTANCE == null){
             synchronized (WordRoomDatabase.class) {
                 if (INSTANCE == null) {

@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8198d7cb-560c-4252-a3d6-93efa22e79c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/roomwordsample/WordRoomDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/roomwordsample/WordRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/roomwordsample/WordRoomDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/roomwordsample/WordRoomDatabase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,10 +161,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602146653974" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602146838988">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602147729282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602146838988" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602147729282" />
     <state x="472" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602146710367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
